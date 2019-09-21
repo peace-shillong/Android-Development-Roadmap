@@ -4,7 +4,7 @@
 
 This List consist of different projects/apps where you can start building applications.
 
-1. *Hello World Peoject*
+1. *Hello World Project*
 
   Basic Android and the simplest app you can make no very little effort.
   
