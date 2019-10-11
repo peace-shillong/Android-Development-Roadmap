@@ -35,3 +35,14 @@
    A Project/App that makes use of volley library to display a list of Events, the data will come in JSON, from a web server. 
    An Event has Title, Venue, Time and Description. You can use RecyclerView to display the List.
    
+7.  _Fruits Information List_ (Using Fragments and Recycler View)
+
+  Build an Information App that makes use of Fragments and RecyclerView.
+  Fragment 1 (ListFragment). Has a list (use RecyclerView) of Fruits, each list item can have Fruit Name and Image
+  On press of the Fruit item, it will open a new Fragment (i.e Fragment 2) and pass the Name of the Fruit to it.
+
+  Fragment 2 (InfoFragment). This Fragment will display information about a Fruit.
+  It will have Fruit Image, Fruit Name and Fruit Description.
+  
+  The UI of the App can be made in any way you want so be creative.
+   
